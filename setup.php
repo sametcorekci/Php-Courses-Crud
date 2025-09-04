@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $db_username = "root";   
-$db_password = "";       
+$db_password = "123456";       
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
